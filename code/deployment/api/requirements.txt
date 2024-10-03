@@ -1,7 +1,0 @@
-fastapi~=0.112.2
-uvicorn
-pydantic
-tqdm
-torch~=2.4.1
-pandas~=2.2.2
-torchvision~=0.19.1
